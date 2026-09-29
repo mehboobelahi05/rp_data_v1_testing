@@ -1,0 +1,367 @@
+[
+  {
+    "label": "General Studies",
+    "hasVideos": true,
+    "children": [
+      {
+        "label": "Recent",
+        "hasVideos": true,
+        "videoIds": [
+          "OqjR97NfGKg"
+        ]
+      },
+      {
+        "label": "Ladakh GK",
+        "hasVideos": true,
+        "videoIds": [
+          "f7xpNpOq_24",
+          "L3R03EWyVTE",
+          "4TY9AK_9LEU",
+          "u3jwM2XJ5U8"
+        ]
+      },
+      {
+        "label": "Polity",
+        "hasVideos": true,
+        "videoIds": [
+          "xZx4wbcyDvM",
+          "VjgMCxiq6fg",
+          "oShrn9mU6wg",
+          "0QhK38Do_20"
+        ]
+      },
+      {
+        "label": "History",
+        "hasVideos": true,
+        "videoIds": [
+          "OqjR97NfGKg"
+        ]
+      },
+      {
+        "label": "Geography",
+        "hasVideos": true,
+        "videoIds": [
+          "T6b52yxgZHM"
+        ]
+      },
+      {
+        "label": "Economy",
+        "hasVideos": false
+      },
+      {
+        "label": "Science",
+        "hasVideos": false
+      },
+      {
+        "label": "Static GK",
+        "hasVideos": false
+      }
+    ]
+  },
+  {
+    "label": "English",
+    "hasVideos": true,
+    "children": [
+      {
+        "label": "Recent",
+        "hasVideos": false
+      },
+      {
+        "label": "Mixed:",
+        "hasVideos": true,
+        "videoIds": [
+          "FpSUczo-EVY",
+          "M6XTv3XzTyA",
+          "6OW1mJTLms0"
+        ]
+      },
+      {
+        "label": "Vocabulary",
+        "hasVideos": true,
+        "videoIds": [
+          "M1qQn7V0PaY",
+          "OLbnD3mGTUM"
+        ]
+      },
+      {
+        "label": "Active Passive",
+        "hasVideos": false
+      },
+      {
+        "label": "Direct Indirect",
+        "hasVideos": false
+      },
+      {
+        "label": "Tenses",
+        "hasVideos": false
+      },
+      {
+        "label": "Subject Verb Agreement",
+        "hasVideos": false
+      },
+      {
+        "label": "Error Detection",
+        "hasVideos": true,
+        "videoIds": [
+          "Nwk5WmgV7Xs"
+        ]
+      },
+      {
+        "label": "Noun",
+        "hasVideos": false
+      },
+      {
+        "label": "Pronoun",
+        "hasVideos": false
+      },
+      {
+        "label": "Adjective",
+        "hasVideos": false
+      },
+      {
+        "label": "Preposition",
+        "hasVideos": false
+      },
+      {
+        "label": "Para Jumbles",
+        "hasVideos": false
+      }
+    ]
+  },
+  {
+    "label": "Aptitude",
+    "hasVideos": true,
+    "children": [
+      {
+        "label": "Recent",
+        "hasVideos": true,
+        "videoIds": [
+          "d8s7P5_QYVU",
+          "SQnBgocyLag"
+        ]
+      },
+      {
+        "label": "Maths Tricks",
+        "hasVideos": true,
+        "videoIds": [
+          "HcadyRMpjxA"
+        ]
+      },
+      {
+        "label": "Number System",
+        "hasVideos": true,
+        "videoIds": [
+          "LrEMYWxfbxo",
+          "BUrlJZaqfHM",
+          "dH8vYjbv2zE",
+          "faBOc_VVBQs",
+          "SQnBgocyLag"
+        ]
+      },
+      {
+        "label": "Mensuration",
+        "hasVideos": false
+      },
+      {
+        "label": "Percentage",
+        "hasVideos": true,
+        "videoIds": [
+          "d8s7P5_QYVU",
+          "wH1Up7WTefU"
+        ]
+      },
+      {
+        "label": "Profit and Loss",
+        "hasVideos": true,
+        "videoIds": [
+          "NJqHxUU1ezs"
+        ]
+      },
+      {
+        "label": "Time Speed and Distance",
+        "hasVideos": true,
+        "videoIds": [
+          "2GgfyxFsj4o"
+        ]
+      },
+      {
+        "label": "Ratio and Proportion",
+        "hasVideos": true,
+        "videoIds": [
+          "V8tcZZIFJew"
+        ]
+      },
+      {
+        "label": "Average",
+        "hasVideos": true,
+        "videoIds": [
+          "l4R5OVIeAi4"
+        ]
+      },
+      {
+        "label": "Time and Work",
+        "hasVideos": true,
+        "videoIds": [
+          "NnHawIe7bXc"
+        ]
+      },
+      {
+        "label": "Simple Interest",
+        "hasVideos": true,
+        "videoIds": [
+          "teet4LaQur8"
+        ]
+      },
+      {
+        "label": "Compound Interest",
+        "hasVideos": true,
+        "videoIds": [
+          "kHZJEI9jNGw"
+        ]
+      },
+      {
+        "label": "Problem on Ages",
+        "hasVideos": true,
+        "videoIds": [
+          "88amN0GMrY4"
+        ]
+      },
+      {
+        "label": "Trigonometry",
+        "hasVideos": false
+      },
+      {
+        "label": "Fractions",
+        "hasVideos": false
+      },
+      {
+        "label": "Algebra",
+        "hasVideos": false
+      },
+      {
+        "label": "Mixture and Allegations",
+        "hasVideos": true,
+        "videoIds": [
+          "BS7XZujeB2M"
+        ]
+      },
+      {
+        "label": "Table Based Aptitude",
+        "hasVideos": false
+      },
+      {
+        "label": "Pipes and Cisterns",
+        "hasVideos": true,
+        "videoIds": [
+          "B-TSxgLHMM0"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Reasoning",
+    "hasVideos": true,
+    "children": [
+      {
+        "label": "Recent",
+        "hasVideos": false
+      },
+      {
+        "label": "Number Series",
+        "hasVideos": true,
+        "videoIds": [
+          "Pe-D7zFe-wg",
+          "fkEFJccSJfQ",
+          "RZDwpddc6UQ",
+          "-e-WqkSCOQU",
+          "fR31HnVeAAA"
+        ]
+      },
+      {
+        "label": "Coding Decoding",
+        "hasVideos": false
+      },
+      {
+        "label": "Dices and Cubes",
+        "hasVideos": true,
+        "videoIds": [
+          "nwF396P3QoI"
+        ]
+      },
+      {
+        "label": "Syllogism",
+        "hasVideos": false
+      },
+      {
+        "label": "Calendar",
+        "hasVideos": true,
+        "videoIds": [
+          "OQarroTPk-U"
+        ]
+      },
+      {
+        "label": "Blood Relations",
+        "hasVideos": false
+      },
+      {
+        "label": "BODMAS",
+        "hasVideos": false
+      },
+      {
+        "label": "Water Images",
+        "hasVideos": false
+      },
+      {
+        "label": "Mirror Images",
+        "hasVideos": false
+      },
+      {
+        "label": "Shape Based Reasoning",
+        "hasVideos": false
+      },
+      {
+        "label": "Words Order in Dictionary",
+        "hasVideos": false
+      },
+      {
+        "label": "Clock",
+        "hasVideos": false
+      },
+      {
+        "label": "Sitting Arrangement",
+        "hasVideos": false
+      },
+      {
+        "label": "Missing Number",
+        "hasVideos": true,
+        "videoIds": [
+          "hqi0v0_MZqM"
+        ]
+      },
+      {
+        "label": "Missing Character",
+        "hasVideos": false
+      },
+      {
+        "label": "Sitting Arrangement",
+        "hasVideos": false
+      },
+      {
+        "label": "Direction Based",
+        "hasVideos": false
+      },
+      {
+        "label": "Find Odd One",
+        "hasVideos": false
+      },
+      {
+        "label": "Triangles",
+        "hasVideos": true,
+        "videoIds": [
+          "4bxXOfr5tXQ",
+          "yg2LiAYuwFc"
+        ]
+      }
+    ]
+  }
+]
