@@ -1,0 +1,207 @@
+{
+  "appDataVersion": "1.1.1",
+  "quote": {
+    "text": "Don’t stop when you’re tired. Stop when you’re done.",
+    "author": "Unknown"
+  },
+  "isDisplayUpdatesSection": true,
+  "updates": [
+    {
+      "title": "New Updates: Jan 25th 2022",
+      "items": [
+        "Update the app to latest version: [click here](https://play.google.com/store/apps/details?id=com.roamprep.app"
+      ]
+    }
+  ],
+  "appVersion": 1,
+  "demoVideoItems": {
+    "mcqsChapterList": {
+      "videoId": "H8BusekwcT8",
+      "timeInSeconds": 123
+    },
+    "randomMCQs": {
+      "videoId": "H8BusekwcT8",
+      "timeInSeconds": 23
+    },
+    "mocks": {
+      "videoId": "lz3E6P35Xw4",
+      "timeInSeconds": 0
+    },
+    "videosList": {
+      "videoId": "0pwfl7dmHOY",
+      "timeInSeconds": 0
+    },
+    "noteChapter": {
+      "videoId": "H8BusekwcT8",
+      "timeInSeconds": 784
+    },
+    "randomNotes": {
+      "videoId": "H8BusekwcT8",
+      "timeInSeconds": 1234
+    },
+    "timelineSection": {
+      "videoId": "pVpNINgAYkk",
+      "timeInSeconds": 0
+    }
+  },
+  "isDisplayFeedbackSection": true,
+  "feedbackInstagramLink": "",
+  "feedbackWhatsappLink": "",
+  "isDisplaySocialMedia": true,
+  "instagramLink": "",
+  "whatsappLink": "",
+  "youtubeLink": "",
+  "telegramLink": "",
+  "isSubscriptionActivate": false,
+  "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
+  "isDisplayAboutMe": true,
+  "examNames": [
+    {
+      "code": "KSSRB",
+      "name": "Kargil Subordinate Selection Recruitment Board"
+    },
+    {
+      "code": "LSSRB",
+      "name": "Leh Subordinate Selection Recruitment Board"
+    },
+    {
+      "code": "LSSSSB",
+      "name": "Ladakh Subordinate Selection Service Board"
+    },
+    {
+      "code": "JKSSB",
+      "name": "J&K Services Selection Board"
+    },
+    {
+      "code": "LPSSSB_SI",
+      "name": "Ladakh Police Subordinate Services Selection Board"
+    },
+    {
+      "code": "LPSSSB_Constable",
+      "name": "Ladakh Police Subordinate Services Selection Board"
+    }
+  ],
+  "examMockTabs": {
+    "lssssb": [
+      {
+        "tag": "general studies",
+        "count": 25
+      },
+      {
+        "tag": "english",
+        "count": 25
+      },
+      {
+        "tag": "aptitude",
+        "count": 25
+      },
+      {
+        "tag": "reasoning",
+        "count": 25
+      }
+    ],
+    "kssrb": [
+      {
+        "tag": "general studies",
+        "count": 25
+      },
+      {
+        "tag": "english",
+        "count": 25
+      },
+      {
+        "tag": "aptitude",
+        "count": 25
+      },
+      {
+        "tag": "reasoning",
+        "count": 25
+      }
+    ],
+    "lssrb": [
+      {
+        "tag": "general studies",
+        "count": 25
+      },
+      {
+        "tag": "english",
+        "count": 25
+      },
+      {
+        "tag": "aptitude",
+        "count": 25
+      },
+      {
+        "tag": "reasoning",
+        "count": 25
+      }
+    ],
+    "jkssb": [
+      {
+        "tag": "general studies",
+        "count": 20
+      },
+      {
+        "tag": "J&K gk",
+        "count": 20
+      },
+      {
+        "tag": "computer",
+        "count": 20
+      },
+      {
+        "tag": "english",
+        "count": 20
+      },
+      {
+        "tag": "aptitude",
+        "count": 20
+      },
+      {
+        "tag": "reasoning",
+        "count": 20
+      }
+    ],
+    "lpssb_si": [
+      {
+        "tag": "general studies",
+        "count": 20
+      },
+      {
+        "tag": "computer",
+        "count": 20
+      },
+      {
+        "tag": "english",
+        "count": 20
+      },
+      {
+        "tag": "aptitude",
+        "count": 20
+      },
+      {
+        "tag": "reasoning",
+        "count": 20
+      }
+    ],
+    "lpssb_constable": [
+      {
+        "tag": "general studies",
+        "count": 50
+      },
+      {
+        "tag": "computer",
+        "count": 20
+      },
+      {
+        "tag": "aptitude",
+        "count": 15
+      },
+      {
+        "tag": "reasoning",
+        "count": 15
+      }
+    ]
+  },
+  "dataUpdateDateTime": 1790692140355
+}
