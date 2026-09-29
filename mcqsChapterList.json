@@ -1,0 +1,415 @@
+[
+  {
+    "name": "General Studies",
+    "sub_chapters": [
+      {
+        "name": "Ladakh",
+        "sub_chapters": []
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "sub_chapters": []
+      },
+      {
+        "name": "Polity",
+        "sub_chapters": [
+          {
+            "name": "Constituent Assembly",
+            "sub_chapters": []
+          },
+          {
+            "name": "Article",
+            "sub_chapters": []
+          },
+          {
+            "name": "PARTs of Constitution",
+            "sub_chapters": []
+          },
+          {
+            "name": "Constitutional Bodies",
+            "sub_chapters": []
+          },
+          {
+            "name": "Preamble",
+            "sub_chapters": []
+          },
+          {
+            "name": "Fundamental Rights",
+            "sub_chapters": []
+          },
+          {
+            "name": "Fundamental Duties",
+            "sub_chapters": []
+          },
+          {
+            "name": "Union Territories",
+            "sub_chapters": []
+          },
+          {
+            "name": "Parliament",
+            "sub_chapters": []
+          },
+          {
+            "name": "symbols",
+            "sub_chapters": []
+          },
+          {
+            "name": "President",
+            "sub_chapters": []
+          }
+        ]
+      },
+      {
+        "name": "History",
+        "sub_chapters": [
+          {
+            "name": "Harappan Civilization",
+            "sub_chapters": []
+          },
+          {
+            "name": "Buddhism",
+            "sub_chapters": []
+          },
+          {
+            "name": "Jainism",
+            "sub_chapters": []
+          },
+          {
+            "name": "Maurya Empire",
+            "sub_chapters": []
+          },
+          {
+            "name": "Gupta dynasty",
+            "sub_chapters": []
+          },
+          {
+            "name": "Delhi Sultanate",
+            "sub_chapters": []
+          },
+          {
+            "name": "Mughals",
+            "sub_chapters": []
+          },
+          {
+            "name": "Social Reforms",
+            "sub_chapters": []
+          },
+          {
+            "name": "Arrival of Europeans In India",
+            "sub_chapters": []
+          },
+          {
+            "name": "British Rule",
+            "sub_chapters": [
+              {
+                "name": "Governor Generals",
+                "sub_chapters": []
+              },
+              {
+                "name": "Indian National Congress",
+                "sub_chapters": [
+                  {
+                    "name": "INC Sessions",
+                    "sub_chapters": []
+                  }
+                ]
+              },
+              {
+                "name": "freedom movement",
+                "sub_chapters": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Geography",
+        "sub_chapters": [
+          {
+            "name": "Structure of Earth",
+            "sub_chapters": []
+          },
+          {
+            "name": "Solar System",
+            "sub_chapters": []
+          },
+          {
+            "name": "River",
+            "sub_chapters": [
+              {
+                "name": "Indus",
+                "sub_chapters": []
+              },
+              {
+                "name": "Ganga",
+                "sub_chapters": []
+              },
+              {
+                "name": "Brahmaputra",
+                "sub_chapters": []
+              },
+              {
+                "name": "Godavari",
+                "sub_chapters": []
+              },
+              {
+                "name": "Krishna",
+                "sub_chapters": []
+              },
+              {
+                "name": "Kaveri",
+                "sub_chapters": []
+              },
+              {
+                "name": "Mahanadi",
+                "sub_chapters": []
+              }
+            ]
+          },
+          {
+            "name": "Mountains and Peaks",
+            "sub_chapters": []
+          },
+          {
+            "name": "Environment",
+            "sub_chapters": [
+              {
+                "name": "Pollution",
+                "sub_chapters": []
+              },
+              {
+                "name": "Climate Change",
+                "sub_chapters": []
+              },
+              {
+                "name": "Protected Areas",
+                "sub_chapters": []
+              },
+              {
+                "name": "Wildlife",
+                "sub_chapters": []
+              }
+            ]
+          },
+          {
+            "name": "World Geography",
+            "sub_chapters": []
+          }
+        ]
+      },
+      {
+        "name": "Economy",
+        "sub_chapters": []
+      },
+      {
+        "name": "International Groupings",
+        "sub_chapters": []
+      },
+      {
+        "name": "Science",
+        "sub_chapters": [
+          {
+            "name": "Physics",
+            "sub_chapters": []
+          },
+          {
+            "name": "Chemistry",
+            "sub_chapters": []
+          },
+          {
+            "name": "Biology",
+            "sub_chapters": [
+              {
+                "name": "Vitamins",
+                "sub_chapters": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dances",
+        "sub_chapters": []
+      }
+    ]
+  },
+  {
+    "name": "Aptitude",
+    "sub_chapters": [
+      {
+        "name": "Number System",
+        "sub_chapters": [
+          {
+            "name": "LCM and HCF",
+            "sub_chapters": []
+          },
+          {
+            "name": "Divisibility",
+            "sub_chapters": []
+          },
+          {
+            "name": "Problems on Numbers",
+            "sub_chapters": []
+          }
+        ]
+      },
+      {
+        "name": "Percentage",
+        "sub_chapters": []
+      },
+      {
+        "name": "Profit and Loss",
+        "sub_chapters": []
+      },
+      {
+        "name": "Time and Work",
+        "sub_chapters": []
+      },
+      {
+        "name": "Problem on Ages",
+        "sub_chapters": []
+      },
+      {
+        "name": "Average",
+        "sub_chapters": []
+      },
+      {
+        "name": "Time Speed and Distance",
+        "sub_chapters": []
+      },
+      {
+        "name": "Ratio and Proportion",
+        "sub_chapters": []
+      }
+    ]
+  },
+  {
+    "name": "English",
+    "sub_chapters": [
+      {
+        "name": "Vocabulary",
+        "sub_chapters": [
+          {
+            "name": "Spelling Error",
+            "sub_chapters": []
+          },
+          {
+            "name": "Idioms",
+            "sub_chapters": [
+              {
+                "name": "Idioms by Rani Maam",
+                "sub_chapters": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Active Passive",
+        "sub_chapters": []
+      },
+      {
+        "name": "Direct Indirect",
+        "sub_chapters": []
+      },
+      {
+        "name": "Tenses",
+        "sub_chapters": []
+      },
+      {
+        "name": "Noun",
+        "sub_chapters": []
+      },
+      {
+        "name": "Verb",
+        "sub_chapters": []
+      },
+      {
+        "name": "Preposition",
+        "sub_chapters": []
+      },
+      {
+        "name": "Eng Passage Based",
+        "sub_chapters": []
+      },
+      {
+        "name": "Confusing Words - Verbs",
+        "sub_chapters": []
+      },
+      {
+        "name": "Para Jumbles",
+        "sub_chapters": []
+      }
+    ]
+  },
+  {
+    "name": "Reasoning",
+    "sub_chapters": [
+      {
+        "name": "Number Series",
+        "sub_chapters": []
+      },
+      {
+        "name": "Alphabetical Analogy",
+        "sub_chapters": []
+      },
+      {
+        "name": "Coding Decoding",
+        "sub_chapters": [
+          {
+            "name": "Word Analogy",
+            "sub_chapters": []
+          },
+          {
+            "name": "Number Analogy",
+            "sub_chapters": []
+          }
+        ]
+      },
+      {
+        "name": "Paragraph Based",
+        "sub_chapters": []
+      },
+      {
+        "name": "Direction Based",
+        "sub_chapters": []
+      },
+      {
+        "name": "Calendar",
+        "sub_chapters": []
+      },
+      {
+        "name": "Syllogism",
+        "sub_chapters": []
+      },
+      {
+        "name": "Blood Relations",
+        "sub_chapters": []
+      },
+      {
+        "name": "Sitting Arrangement",
+        "sub_chapters": []
+      },
+      {
+        "name": "Shape Based Reasoning",
+        "sub_chapters": []
+      },
+      {
+        "name": "Dices and Cubes",
+        "sub_chapters": []
+      },
+      {
+        "name": "Missing Character",
+        "sub_chapters": []
+      },
+      {
+        "name": "Missing Number",
+        "sub_chapters": []
+      },
+      {
+        "name": "Mirror Images",
+        "sub_chapters": []
+      }
+    ]
+  }
+]
